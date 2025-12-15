@@ -1,7 +1,7 @@
 # 基础配置（必填，解决404+启用主题）
 theme: jekyll-theme-minimal
-title:   # 网页标题，可自定义（比如“机器人文档库”）
-description:   # 网页描述，可选
+title: 我的文档导航站  # 网页标题，可自定义（比如“机器人文档库”）
+description: 按文件夹分类的MD文档导航页面  # 网页描述，可选
 lang: zh-CN  # 语言设置为中文
 
 # 目录/链接优化（可选，提升体验）
