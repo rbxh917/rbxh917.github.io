@@ -5,3 +5,4 @@
 
 ## 航空航天
 - [航天晨光](aerospace/morningLight)
+- [北斗星通](aerospace/beidouxingtong)
