@@ -1,1 +1,1 @@
-https://rbxh917.github.io/xx
+https://rbxh917.github.io
