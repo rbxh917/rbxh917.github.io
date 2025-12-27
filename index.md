@@ -12,3 +12,4 @@
 - [宝钛股份](aerospace/baotaigufen)
 - [东方通信](aerospace/eastcom)
 - [海格通信](aerospace/haigetongxin)
+- [三维通信](aerospace/sanweitongxin)
