@@ -13,3 +13,4 @@
 - [东方通信](aerospace/eastcom)
 - [海格通信](aerospace/haigetongxin)
 - [三维通信](aerospace/sanweitongxin)
+- [盛路通信](aerospace/shenglutongxin)
