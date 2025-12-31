@@ -14,3 +14,4 @@
 - [海格通信](aerospace/haigetongxin)
 - [三维通信](aerospace/sanweitongxin)
 - [盛路通信](aerospace/shenglutongxin)
+- [长江通信](aerospace/changjiangtongxin)
