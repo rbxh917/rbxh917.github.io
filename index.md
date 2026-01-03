@@ -18,6 +18,7 @@
 - [吉林化纤](aerospace/jilinhuaxian)
 - [中航高科](aerospace/zhonghanggaoke)
 - [精工科技](aerospace/jinggongkeji)
+- [楚江新材](aerospace/chujiangxincai)
 
 ## 核电
 - [国机重装](nuclear/guojizhongzhuang)
