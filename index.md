@@ -23,3 +23,4 @@
 
 ## 核电
 - [国机重装](nuclear/guojizhongzhuang)
+- [同方股份](nuclear/tongfanggufen)
