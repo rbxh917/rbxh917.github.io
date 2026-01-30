@@ -1,7 +1,7 @@
 # 文档导航目录
 
 ## 机器人
-- [五洲新春](robot/wuzhouxinchu)- [海康威视](robot/haikangweishi)
+- [五洲新春](robot/wuzhouxinchu)- [海康威视](robot/haikangweishi)- [咸亨国际](robot/xianhengguoji)
 
 ## 航空航天
 - [航天晨光](aerospace/morningLight)- [北斗星通](aerospace/beidouxingtong)- [海特高新](aerospace/haitegaoxin)- [太钢不锈](aerospace/taigangbuxiu)
