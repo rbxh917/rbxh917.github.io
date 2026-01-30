@@ -11,6 +11,7 @@
 - [王子新材](aerospace/wangzixincai)
 - [中航高科](aerospace/zhonghanggaoke)- [中航机载](aerospace/zhonghangjizai)- [中航重机](aerospace/zhonghangzhongji)
 - [航发动力](aerospace/hangfadongli)- [航发控制](aerospace/hangfakongzhi)- [航发科技](aerospace/hangfakeji)
+- [普天科技](aerospace/putiankeji)
 ## 核电
 - [国机重装](nuclear/guojizhongzhuang)
 - [同方股份](nuclear/tongfanggufen)
