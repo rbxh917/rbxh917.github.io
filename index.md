@@ -26,4 +26,4 @@
 - [博迁新材](semi/boqianxincai) - [振华科技](semi/zhenhuakeji) - [金安国纪](semi/jinanguoji) - [三安光电](semi/sananguangdian)
 
 ## 其他
-- [中国长城](robot/zhongguochangcheng)
+- [中国长城](other/zhongguochangcheng) - [英维克](other/yingweike)
