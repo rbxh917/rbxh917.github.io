@@ -24,3 +24,6 @@
 ## 半导体
 - [风华高科](semi/fenghuagaoke) - [顺络电子](semi/shunluodianzi) - [火炬电子](semi/huojudianzi) - [鸿远电子](semi/hongyuandianzi)
 - [博迁新材](semi/boqianxincai) - [振华科技](semi/zhenhuakeji) - [金安国纪](semi/jinanguoji) - [三安光电](semi/sananguangdian)
+
+## 其他
+- [中国长城](robot/zhongguochangcheng)
