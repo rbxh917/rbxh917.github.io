@@ -2,6 +2,7 @@
 
 ## 机器人
 - [五洲新春](robot/wuzhouxinchu)- [海康威视](robot/haikangweishi)- [咸亨国际](robot/xianhengguoji)
+- [三花智控](robot/sanhuazhikong)- [均胜电子](robot/junshengdianzi)- [中鼎股份](robot/zhongdinggufen)
 
 ## 航空航天
 - [航天晨光](aerospace/morningLight)- [北斗星通](aerospace/beidouxingtong)- [海特高新](aerospace/haitegaoxin)- [太钢不锈](aerospace/taigangbuxiu)
