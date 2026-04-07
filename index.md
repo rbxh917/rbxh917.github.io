@@ -22,4 +22,4 @@
 - [美锦能源](hydrogen/meijinnengyuan)
 ## 半导体
 - [风华高科](semi/fenghuagaoke) - [顺络电子](semi/shunluodianzi) - [火炬电子](semi/huojudianzi) - [鸿远电子](semi/hongyuandianzi)
-- [博迁新材](semi/boqianxincai)
+- [博迁新材](semi/boqianxincai) - [振华科技](semi/zhenhuakeji)
